@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @webargon
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Development and SEO
-- 💞️ I’m looking to collaborate on Comunity
+- 💞️ I’m looking to collaborate on Community
 - 📫 How to reach me: webargon@gmail.com or www.webargon.com.br 
 
 <!---
